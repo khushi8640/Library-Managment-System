@@ -49,10 +49,13 @@ Conclusion
 This project demonstrates how Python can automate real-life tasks such as managing a library
 
 screenshot
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="1035" height="800" alt="image" src="https://github.com/user-attachments/assets/8e1af747-dff5-42c7-afa9-91ecd53f1b28" />
+<img width="1600" height="891" alt="image" src="https://github.com/user-attachments/assets/7b5364ac-de0f-4861-9e39-8b66a182f395" />
+<img width="1600" height="891" alt="image" src="https://github.com/user-attachments/assets/d12a409d-82d9-48d1-9f5b-2fb7c3dc8d8d" />
+<img width="1600" height="960" alt="image" src="https://github.com/user-attachments/assets/f355b574-daf1-4316-97cc-4df92294f79e" />
+<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/5cb110fc-8756-4f6c-9235-0bacd8be4e2a" />
+
+
+
 
 
