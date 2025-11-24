@@ -1,2 +1,1 @@
-# Library-Managment-System
-for library managment
+README.md
